@@ -1,7 +1,10 @@
 class Solution {
     public int search(int[] nums, int target) {
-        List<Integer> arr=new ArrayList<>();
-        for(int i:nums)arr.add(i);
-       return arr.indexOf(target); 
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == target) {
+                return i;
+            }
+        }
+        return -1;
     }
 }
