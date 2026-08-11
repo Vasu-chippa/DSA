@@ -40,8 +40,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Vasu-chippa/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Vasu-chippa/DSA/tree/main/0069-sqrtx/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
