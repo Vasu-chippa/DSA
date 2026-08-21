@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vasu-chippa/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Vasu-chippa/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Vasu-chippa/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0198-house-robber](https://github.com/Vasu-chippa/DSA/tree/main/0198-house-robber/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vasu-chippa/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Vasu-chippa/DSA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Vasu-chippa/DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/Vasu-chippa/DSA/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
