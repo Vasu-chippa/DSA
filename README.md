@@ -42,6 +42,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Vasu-chippa/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Vasu-chippa/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Newton's Method
@@ -51,6 +52,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Vasu-chippa/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/Vasu-chippa/DSA/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0740-delete-and-earn](https://github.com/Vasu-chippa/DSA/tree/main/0740-delete-and-earn/) | Medium |
@@ -62,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Vasu-chippa/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
