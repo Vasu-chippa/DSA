@@ -14,19 +14,15 @@
  * }
  */
 class Solution {
-    static int c=0;
+     int c=0;
     public int kthSmallest(TreeNode root, int k) {
-        c=0;
-        return fun(root,k);
-    }
-    public int fun(TreeNode root, int k) {
         if(root==null) return -1;
-        int left = fun(root.left,k);
+        int left = kthSmallest(root.left,k);
         if(left!=-1){
             return left;
         }
         c++;
         if(c==k) return root.val;
-        return fun(root.right,k);
+        return kthSmallest(root.right,k);
     }
 }
