@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vasu-chippa/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Vasu-chippa/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Vasu-chippa/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasu-chippa/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Vasu-chippa/DSA/tree/main/0198-house-robber/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vasu-chippa/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Vasu-chippa/DSA/tree/main/0704-binary-search/) | Easy |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Vasu-chippa/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasu-chippa/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Vasu-chippa/DSA/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0740-delete-and-earn](https://github.com/Vasu-chippa/DSA/tree/main/0740-delete-and-earn/) | Medium |
