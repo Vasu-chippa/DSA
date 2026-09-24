@@ -20,6 +20,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/Vasu-chippa/DSA/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Vasu-chippa/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vasu-chippa/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vasu-chippa/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0062-unique-paths](https://github.com/Vasu-chippa/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Vasu-chippa/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vasu-chippa/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
