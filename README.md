@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasu-chippa/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Vasu-chippa/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Vasu-chippa/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/Vasu-chippa/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vasu-chippa/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Vasu-chippa/DSA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Vasu-chippa/DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vasu-chippa/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/Vasu-chippa/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +130,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vasu-chippa/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Vasu-chippa/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Vasu-chippa/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Vasu-chippa/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Vasu-chippa/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
