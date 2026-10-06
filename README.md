@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Vasu-chippa/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Vasu-chippa/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Vasu-chippa/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Vasu-chippa/DSA/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasu-chippa/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Vasu-chippa/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Vasu-chippa/DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -146,4 +147,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Vasu-chippa/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Vasu-chippa/DSA/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Vasu-chippa/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
