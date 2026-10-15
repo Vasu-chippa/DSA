@@ -88,11 +88,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vasu-chippa/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vasu-chippa/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Vasu-chippa/DSA/tree/main/0337-house-robber-iii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vasu-chippa/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vasu-chippa/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Vasu-chippa/DSA/tree/main/0337-house-robber-iii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -102,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vasu-chippa/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vasu-chippa/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Vasu-chippa/DSA/tree/main/0337-house-robber-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -162,4 +165,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vasu-chippa/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vasu-chippa/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vasu-chippa/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
