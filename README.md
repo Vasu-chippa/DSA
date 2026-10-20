@@ -12,6 +12,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vasu-chippa/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Vasu-chippa/DSA/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasu-chippa/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vasu-chippa/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Vasu-chippa/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Vasu-chippa/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Vasu-chippa/DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -42,6 +43,7 @@
 | [0035-search-insert-position](https://github.com/Vasu-chippa/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Vasu-chippa/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Vasu-chippa/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vasu-chippa/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/Vasu-chippa/DSA/tree/main/0704-binary-search/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vasu-chippa/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Vasu-chippa/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vasu-chippa/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
