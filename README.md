@@ -20,6 +20,7 @@
 | [0704-binary-search](https://github.com/Vasu-chippa/DSA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Vasu-chippa/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0740-delete-and-earn](https://github.com/Vasu-chippa/DSA/tree/main/0740-delete-and-earn/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Vasu-chippa/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Vasu-chippa/DSA/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Vasu-chippa/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vasu-chippa/DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -75,6 +76,7 @@
 | [0337-house-robber-iii](https://github.com/Vasu-chippa/DSA/tree/main/0337-house-robber-iii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0740-delete-and-earn](https://github.com/Vasu-chippa/DSA/tree/main/0740-delete-and-earn/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Vasu-chippa/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Vasu-chippa/DSA/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
