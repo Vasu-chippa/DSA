@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Vasu-chippa/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Vasu-chippa/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Vasu-chippa/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vasu-chippa/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Newton's Method
@@ -67,6 +68,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vasu-chippa/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vasu-chippa/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Vasu-chippa/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Vasu-chippa/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasu-chippa/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Vasu-chippa/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Vasu-chippa/DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -81,6 +83,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Vasu-chippa/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vasu-chippa/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
